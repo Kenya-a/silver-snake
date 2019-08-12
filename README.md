@@ -1,2 +1,3 @@
-# silver-snake
+## silver-snake
+
 JS snake
